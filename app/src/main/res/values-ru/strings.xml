@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+
+    <string name="activity_main_about_text">Мобилизация %s.</string>
+    <string name="activity_main_website">Сайт</string>
+    <string name="activity_main_about">О приложении</string>
+    <string name="error_artists_load_failed">Не получилось загрузить данные, проверьте соединение и попробуйте снова.</string>
+    <string name="error_artists_reload_failed">Не получилось обновить данные, проверьте соединение и попробуйте снова.</string>
+    <string name="artists">Исполнители</string>
+    <string name="all_artists">Все</string>
+    <string name="menu_item_site">Сайт</string>
+    <string name="biography">Биография</string>
+
+    <plurals name="number_of_songs">
+        <item quantity="zero">нет песен</item>
+        <item quantity="one">%d песня</item>
+        <item quantity="few">%d песни</item>
+        <item quantity="many">%d песен</item>
+        <item quantity="other">%d песен</item>
+    </plurals>
+    <plurals name="number_of_albums">
+        <item quantity="zero">нет альбомов</item>
+        <item quantity="one">%d альбом</item>
+        <item quantity="few">%d альбома</item>
+        <item quantity="many">%d альбомов</item>
+        <item quantity="other">%d альбомов</item>
+    </plurals>
+</resources>

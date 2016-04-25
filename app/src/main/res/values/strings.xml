@@ -1,0 +1,30 @@
+<resources>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+
+    <string name="activity_main_about_text">Mobilization %s.</string>
+    <string name="activity_main_website">Website</string>
+    <string name="activity_main_about">About</string>
+    <string name="error_artists_load_failed">Failed to load data. Check your connection and try again.</string>
+    <string name="error_artists_reload_failed">Failed to refresh data. Check your connection and try again.</string>
+    <string name="artists">Artists</string>
+    <string name="all_artists">All</string>
+
+    <plurals name="number_of_songs">
+        <item quantity="zero">no songs</item>
+        <item quantity="one">%d song</item>
+        <item quantity="many">%d songs</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+    <plurals name="number_of_albums">
+        <item quantity="zero">no albums</item>
+        <item quantity="one">%d album</item>
+        <item quantity="many">%d albums</item>
+        <item quantity="other">%d albums</item>
+    </plurals>
+
+    <string name="comma_joined_string">%1$s  ·  %2$s</string>
+    <string name="dot_joined_string">%1$s, %2$s</string>
+    <string name="menu_item_site">Site</string>
+    <string name="biography">Biography</string>
+</resources>
